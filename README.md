@@ -1,7 +1,6 @@
 ### Olá! Eu sou o Luiz Junior!
 
-- 🔭 Sou Desenvolvedor front-end
-- 🌱 Estou estudando back-end
+- 🔭 Sou Desenvolvedor full-stack
 - 📫 Contate-me no email: lacjunior129.la@gmail.com
 - 😄 Pronouns: ele/dele
 
