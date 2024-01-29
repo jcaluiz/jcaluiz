@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Luiz Junior!
 
-- 🔭 Sou Desenvolvedor full-stack
+- 🔭 Sou Desenvolvedor full-stack na LPT4 - Sistema de Informacao LTDA
 - 📫 Contate-me no email: lacjunior129.la@gmail.com
 - 😄 Pronouns: ele/dele
 
